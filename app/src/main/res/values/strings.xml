@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Health Assistant</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Criar conta</string>
+    <string name="sign_out">Sair</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="name">Nome</string>
+    <string name="go_to_sign_in">Já possui conta? Ir para login</string>
+    <string name="go_to_sign_up">Criar conta</string>
+    <string name="accomplish_task">Concluir tarefa</string>
+    <string name="greeting">Olá, </string>
+    <string name="your_tasks">Suas tarefas</string>
+
+
+    <string name="overdue_tasks">Atrasadas</string>
+    <string name="open_tasks">Abertas</string>
+    <string name="closed_tasks">Realizadas</string>
+
+    <string name="display_error_title">Ops!</string>
+    <string name="display_error_retry">Tentar novamente</string>
+
+    <string name="sign_in_error">Erro ao fazer login, tente novamente</string>
+    <string name="sign_up_error">Erro ao criar conta, tente novamente</string>
+    <string name="fetch_tasks_error">Erro ao obter tarefas</string>
+    <string name="accomplish_task_error">Erro ao concluir tarefa</string>
+
+    <string name="empty_task">Sem tarefas por aqui!</string>
+
+</resources>
